@@ -1,13 +1,13 @@
 # Radio-Galaxies
 This folder contains code and plots produced during a research project on high-redshift radio galaxies at Curtin Institute of Radio Astronomy, produced as part of PHYS3003 and PHYS3004 (Physics Project) 2020. Supervisors were Nick Seymour and Jess Broderick, with additional input by Guillaume Drouart.
 
-Project Summary:
+**Project Summary:**
 
 Radio galaxies are some of the largest and most luminous objects in the Universe. High-redshift (z > 2) radio galaxies provide valuable information about the early Universe, including galaxy evolution and the local environment of an expanding Universe. This project was part of a wider research effort to efficiently select ultra-high-redshift radio galaxies via a new selection method that utilises parameters not fully covered by previous surveys. The presence of such massive galaxies in the first billion years of the Universe (z > 6) would challenge notions of galaxy evolution and provide unique opportunities to study the Epoch of Reionisation.
 
 Along with identifying several candidate galaxies for observational followup, this project empirically derived several important characteristics of high-redshift radio galaxies. The code written to produce the plots that accompanied the discussion of these characteristics are presented here.
 
-Code:
+**Code:**
 
 This code was my first introduction to Python and its modules. They are functional but could do with some refining.
 
